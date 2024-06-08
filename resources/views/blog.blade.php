@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('blog')
+@section('content')
     @include('includes.header2')
     @include('includes.blog')
 @endsection

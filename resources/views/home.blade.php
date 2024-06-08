@@ -1,6 +1,6 @@
 @extends('layouts.main')
 
-@section('home')
+@section('content')
     <!-- slider section -->
     @include('includes.slider')
     <!-- end slider section -->

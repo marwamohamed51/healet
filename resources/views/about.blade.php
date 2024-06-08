@@ -1,6 +1,6 @@
 @extends('layouts.main')
 
-@section('about')
+@section('content')
     @include('includes.header2')
     @include('includes.about')
 @endsection

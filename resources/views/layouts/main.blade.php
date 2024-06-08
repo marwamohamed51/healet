@@ -11,13 +11,8 @@
     @include('includes.header')
     <!-- end header section -->
 
-    @yield('home')
+    @yield('content')
 
-    @yield('about')
-
-    @yield('shop')
-
-    @yield('blog')
     <!-- info section -->
     @include('includes.info')
     <!-- end info_section -->
